@@ -36,7 +36,7 @@ export default function PortfolioContainer() {
 
       </header>
 
-<main>
+<main className="d-flex p-1" style={{ width: '1584px'}}>
 
 
       { renderPage() }

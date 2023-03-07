@@ -7,18 +7,9 @@ function Navigation({ currentPage, handlePageChange }) {
   return (
 
 
-      <header className="my-header" style={{ backgroundImage:`url(${image})`,backgroundRepeat:"no-repeat", height:'250px'}}>
+      <header className="img-fluid shadow-4" style={{ backgroundImage:`url(${image})`,backgroundRepeat:"no-repeat", height:'250px'}}>
 
-
-       
-
-
-          <h1>Emil Ronquillo</h1>
-
-
-
-
-
+        <h1>Emil Ronquillo</h1>
 
       <ul className="nav">
         <li className="nav-item">
