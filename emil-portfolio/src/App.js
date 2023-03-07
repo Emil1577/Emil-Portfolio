@@ -1,19 +1,23 @@
-import logo from './logo.svg';
+
 import './App.css';
-import HelloReact from './components/HelloReact';
+
+import PortfolioContainer from './components/PortfolioContainer';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
 
 
-          Learn React
 
-      </header>
+      <div className="">
+        <header className="">
 
-      <HelloReact/>
-    </div>
+          <PortfolioContainer />
+
+        </header>
+
+
+      </div>
+
   );
 }
 
