@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Emil-Portfolio/static/css/main.6e6df6a6.css",
-    "main.js": "/Emil-Portfolio/static/js/main.85c421b5.js",
+    "main.js": "/Emil-Portfolio/static/js/main.21525006.js",
     "static/media/headerImg.jpg": "/Emil-Portfolio/static/media/headerImg.840d8e4a3f6e1db17ff2.jpg",
     "static/media/myphoto.jpg": "/Emil-Portfolio/static/media/myphoto.65fc2c9e53b26dbb1130.jpg",
     "static/media/Paintedladies.jpeg": "/Emil-Portfolio/static/media/Paintedladies.6a075f5c18531177d69e.jpeg",
     "static/media/header-logo.png": "/Emil-Portfolio/static/media/header-logo.e71d4404e6a0149c06b0.png",
     "index.html": "/Emil-Portfolio/index.html",
     "main.6e6df6a6.css.map": "/Emil-Portfolio/static/css/main.6e6df6a6.css.map",
-    "main.85c421b5.js.map": "/Emil-Portfolio/static/js/main.85c421b5.js.map"
+    "main.21525006.js.map": "/Emil-Portfolio/static/js/main.21525006.js.map"
   },
   "entrypoints": [
     "static/css/main.6e6df6a6.css",
-    "static/js/main.85c421b5.js"
+    "static/js/main.21525006.js"
   ]
 }
