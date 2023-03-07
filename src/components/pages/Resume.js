@@ -23,13 +23,13 @@ export default function Resume() {
       </p>
 
       <h3>
-        SCI LighCng SoluCons
-        LighCng Control Specialist
+        SCI Lighting SoluCons
+        Lighting Control Specialist
         2013 – 2016
       </h3>
 
       <p>
-        Provide ligh/ng controls quota/ons, submiPals and design to Electrical Engineers, Architects, distributors and contractors to meet the current Title 24 code and job specific requirements. Establishing solid rela/onships with clientele by providing the finest and most economical solu/on and technical support and ensuring their projects will meet the highest standards.
+        Provide lighting controls quota/ons, submiPals and design to Electrical Engineers, Architects, distributors and contractors to meet the current Title 24 code and job specific requirements. Establishing solid rela/onships with clientele by providing the finest and most economical solu/on and technical support and ensuring their projects will meet the highest standards.
       </p>
     </div>
   );
