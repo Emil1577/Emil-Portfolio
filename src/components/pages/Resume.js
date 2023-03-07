@@ -23,7 +23,7 @@ export default function Resume() {
       </p>
 
       <h3>
-        SCI Lighting SoluCons
+        SCI Lighting Solutions
         Lighting Control Specialist
         2013 – 2016
       </h3>
