@@ -5,6 +5,8 @@ import Portfolio from './pages/Portfolio';
 import Resume from './pages/Resume';
 
 import Contact from './pages/Contact';
+import gitHub from '../assets/github-mark.png';
+import linkedIn from '../assets/LI-In-Bug.png';
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState('AboutMe');
@@ -29,18 +31,41 @@ export default function PortfolioContainer() {
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
-   <div>
+    <div>
 
       <header>
         <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
 
       </header>
 
-<main className="d-flex p-1" style={{ width: '1584px'}}>
+      <main className="d-flex p-1" style={{ width: '1584px' }}>
 
 
-      { renderPage() }
-    </main>
+        {renderPage()}
+      </main>
+
+      <footer>
+
+
+
+
+        <div className="section-footer"  >
+
+
+
+
+          <a href="https://github.com/Emil1577" target="_blank" rel="noreferrer">
+            <img src={gitHub} style={{height:'65px', padding:'10px'}} ></img>
+          </a>
+
+          <a href="https://www.linkedin.com/in/emil-ronquillo-76832a32/" target="_blank" rel="noreferrer">
+            <img src={linkedIn} style={{height:'65px', padding:'10px'}}></img>
+          </a>
+
+
+        </div>
+
+      </footer>
 
     </div >
   );

@@ -76,6 +76,28 @@ background: beige;
 
 }
 
+.section-footer {
+
+
+  overflow-wrap: break-word;
+  font-size: 150%;
+  width: 100%;
+  height: auto;
+  padding:40px;
+  text-align:center;
+
+}
+
+#contactme {
+
+  padding-top: 20px;
+  font-size: 80%;
+  width: 100%;
+  text-align:center;
+
+
+}
+
 
 
 .my-header  {
