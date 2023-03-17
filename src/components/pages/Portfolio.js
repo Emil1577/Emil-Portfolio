@@ -7,6 +7,8 @@ import myPetLogo from '../../assets/header-logo.png';
 import planetX from '../../assets/headerImg.jpg';
 import futureTrain from '../../assets/train.jpeg';
 import goldenState from '../../assets/Paintedladies.jpeg';
+import hobbiest from '../../assets/lolo.png';
+
 
 export default function Portfolio() {
   return (
@@ -18,7 +20,7 @@ export default function Portfolio() {
       <Card.Body>
 
         <Card.Text>
-          Here is our Project 1
+          Project 1 = Me Myself and I
         </Card.Text>
         <a href="https://silkyjazz.github.io/Me-MyPet-AndI/" class="btn btn-primary">Click Here</a>
       </Card.Body>
@@ -29,7 +31,7 @@ export default function Portfolio() {
 <Card.Body>
 
   <Card.Text>
-    Here is our Project 2
+    Project 2 - PlanetX
   </Card.Text>
   <a href="https://planetxapp-jbe.herokuapp.com/" class="btn btn-primary">Click Here</a>
 </Card.Body>
@@ -38,11 +40,11 @@ export default function Portfolio() {
 <Card style={{ width: '18rem', padding: '20px' }}>
 <Card.Img variant="top" src={futureTrain} />
       <Card.Body>
-        <Card.Title>Future Train</Card.Title>
+        <Card.Title>Hobbiest Place On Earth</Card.Title>
         <Card.Text>
-          In Progress
+          Project 3 - Hobbiest Place on Earth
         </Card.Text>
-        <Button variant="primary">In Progress </Button>
+        <a href="https://hobbiest-place-ons-earth.herokuapp.com/" class="btn btn-primary">Click Here</a>
       </Card.Body>
     </Card>
 
