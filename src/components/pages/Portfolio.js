@@ -38,7 +38,7 @@ export default function Portfolio() {
 </Card>
 
 <Card style={{ width: '18rem', padding: '20px' }}>
-<Card.Img variant="top" src={futureTrain} />
+<Card.Img variant="top" src={hobbiest} />
       <Card.Body>
         <Card.Title>Hobbiest Place On Earth</Card.Title>
         <Card.Text>
